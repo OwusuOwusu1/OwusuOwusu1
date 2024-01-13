@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding from scratch
 - 📫 How to reach me - 00233540388837  
 - 😄 Pronouns: Kwasante
-- ⚡ Fun fact: 
+  
 
 <!---
 OwusuOwusu1/OwusuOwusu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
